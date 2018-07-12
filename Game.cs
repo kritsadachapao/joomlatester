@@ -7,7 +7,7 @@ namespace sudoku_cs
 {
     public class Game
     {
-
+        //test text github
         public event ShowCluesEventHandler ShowClues;
         public delegate void ShowCluesEventHandler(int[][] grid);
         public event ShowSolutionEventHandler ShowSolution;
